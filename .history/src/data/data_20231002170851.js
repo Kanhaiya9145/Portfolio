@@ -19,7 +19,7 @@ export const data=[
     },
     {
         id:3,
-        name:"Nothing",
+        name:"React JS Application",
         image:nothing,
         github:"Nothing",
         live:"",

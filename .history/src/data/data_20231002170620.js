@@ -5,23 +5,23 @@ import nothing from '../assets/projects/na1`.jpg'
 export const data=[
     {
         id:1,
-        name:"iNote React Application",
+        name:"React JS Application",
         image:inote,
-        github:"https://github.com/Kanhaiya9145/iNoteOn",
+        github:"",
         live:"",
     },
     {
         id:2,
-        name:"TicTacToe Game React Application",
+        name:"React JS Application",
         image:tictactoe,
-        github:"https://github.com/Kanhaiya9145/TicTacToe_Game",
+        github:"",
         live:"",
     },
     {
         id:3,
-        name:"Nothing",
+        name:"React JS Application",
         image:nothing,
-        github:"Nothing",
+        github:"",
         live:"",
     },
 ]
